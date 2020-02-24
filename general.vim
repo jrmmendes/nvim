@@ -1,3 +1,5 @@
+let g:python3_host_prog='/home/romildo/.neovim-venvs/neovim3/bin/python'
+
 "Colorscheme
 set background=dark
 set termguicolors
@@ -6,7 +8,6 @@ colorscheme deep-space
 
 set rtp+=~/.fzf " fzf config
 
-set guifont=FireCode:h12
 " disable tabline
 set number
 set showtabline=0
