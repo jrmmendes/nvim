@@ -2,6 +2,7 @@ call plug#begin('~/.vim/plugged')
 
 " Colorschemes
 Plug 'tyrannicaltoucan/vim-deep-space'
+Plug 'sjl/badwolf'
 
 " Interface
 Plug 'scrooloose/nerdtree'
@@ -10,7 +11,9 @@ Plug 'junegunn/goyo.vim'
 Plug 'junegunn/fzf.vim'
 Plug 'ddollar/nerdcommenter'
 Plug 'mileszs/ack.vim'
-Plug 'wakatime/vim-wakatime'
+Plug 'ryanoasis/vim-devicons'
+
+" Plug 'wakatime/vim-wakatime'
 Plug 'mhinz/vim-startify'
 Plug 'Shougo/denite.nvim', { 'do': ':UpdateRemotePlugins' }
 
@@ -33,6 +36,8 @@ Plug 'chemzqm/vim-jsx-improve'
 Plug 'mattn/emmet-vim'
 Plug 'jrmmendes/vim-vue'
 Plug 'cakebaker/scss-syntax.vim'
+Plug 'jiangmiao/auto-pairs'
+Plug 'leafgarland/typescript-vim'
 
 " Plug 'ternjs/tern_for_vim', { 'do': 'npm install && npm install -g tern' }
 
