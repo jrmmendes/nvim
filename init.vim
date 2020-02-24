@@ -1,5 +1,5 @@
 " Plugins
-source $HOME/.config/nvim/plug.vim
+source $HOME/.config/nvim/plugins/index.vim
 
 " General settings
 source $HOME/.config/nvim/general.vim
