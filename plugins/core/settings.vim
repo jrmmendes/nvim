@@ -1,5 +1,5 @@
-runtime plugins/interface/airline.vim
-runtime plugins/interface/NERDTree.vim
-runtime plugins/interface/startify.vim
-runtime plugins/interface/emmet.vim
-runtime plugins/interface/coc.vim
+runtime plugins/core/airline.vim
+runtime plugins/core/NERDTree.vim
+runtime plugins/core/startify.vim
+runtime plugins/core/emmet.vim
+runtime plugins/core/coc.vim

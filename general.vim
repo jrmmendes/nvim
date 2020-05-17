@@ -1,4 +1,4 @@
-let g:python3_host_prog='/home/romildo/.neovim-venvs/neovim3/bin/python'
+let g:python3_host_prog='/home/jrmmendes/.neovim-venvs/neovim3/bin/python'
 
 "Colorscheme
 set background=dark
