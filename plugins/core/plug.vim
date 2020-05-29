@@ -11,6 +11,7 @@ Plug 'Shougo/denite.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'metakirby5/codi.vim'
+Plug 'tpope/vim-surround'
 " Plug 'ludovicchabant/vim-gutentags'
 " Plug 'w0rp/ale'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
