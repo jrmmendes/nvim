@@ -10,7 +10,7 @@ Dotfiles - Neovim
 </h2>
 
 <p> Neovim dotfiles with deep-space, coc.nvim, nerdtree and other cools stuf. </p>
-
+<p align=center> <img src=https://raw.githubusercontent.com/jrmmendes/nvim/master/demo.gif alt=demo/> </p>
 ### Requirements
 - Powerline fonts (https://github.com/powerline/fonts)
 - nvim v0.4.3+
