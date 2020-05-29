@@ -1,5 +1,3 @@
-let g:python3_host_prog='/home/jrmmendes/.neovim-venvs/neovim3/bin/python'
-
 "Colorscheme
 set background=dark
 set termguicolors
@@ -13,8 +11,8 @@ set number
 set showtabline=0
 set autoindent
 set smartindent
-set tabstop=4
-set shiftwidth=4
+set tabstop=2
+set shiftwidth=2
 set expandtab
 set textwidth=80
 set hidden

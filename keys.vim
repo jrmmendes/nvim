@@ -8,6 +8,8 @@ nnoremap <A-left> :tabp <CR>
 nnoremap <A-right> :tabn <CR>
 nnoremap <A-up> :tabl <CR>
 map <Leader><Space> :noh<CR>;
+nnoremap <A-i> >> 
+nnoremap <A-u> << 
 
 " Remap for do codeAction of selected region
 function! s:cocActionsOpenFromSelected(type) abort
