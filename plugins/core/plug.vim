@@ -1,6 +1,7 @@
 " CORE
 Plug 'scrooloose/nerdtree'
 Plug 'Yggdroot/indentLine' 
+Plug 'sheerun/vim-polyglot'
 Plug 'junegunn/goyo.vim'
 Plug 'junegunn/fzf.vim'
 Plug 'ddollar/nerdcommenter'

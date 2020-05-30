@@ -1,6 +1,7 @@
 "Colorscheme
 set background=dark
 set termguicolors
+set mouse=a
 let g:airline_theme='deep_space'
 colorscheme deep-space
 

@@ -5,4 +5,4 @@ let g:user_emmet_settings = {
     \      'extends' : 'jsx',
     \  },
   \}
-autocmd FileType vue,html,htmldjango,sass,scss,less,css,ejs,jst,jinja,javascript EmmetInstall
+autocmd FileType vue,svelte,html,htmldjango,sass,scss,less,css,ejs,jst,jinja,javascript EmmetInstall
