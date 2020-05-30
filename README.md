@@ -9,7 +9,7 @@
 Dotfiles - Neovim
 </h2>
 
-<p align=center> Neovim dotfiles with deep-space, coc.nvim, nerdtree and other cools stuf. </p>
+<p align=center> Featuring deep-space, coc.nvim, nerdtree and other cool stuff. </p>
 <p align=center> <img src=https://raw.githubusercontent.com/jrmmendes/nvim/master/demo.gif alt=demo/> </p>
 
 ### Requirements
