@@ -10,6 +10,7 @@ nnoremap <A-up> :tabl <CR>
 map <Leader><Space> :noh<CR>;
 nnoremap <A-i> >> 
 nnoremap <A-u> << 
+nnoremap <Leader>s :<C-u>call gitblame#echo()<CR>
 
 " Remap for do codeAction of selected region
 function! s:cocActionsOpenFromSelected(type) abort

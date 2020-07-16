@@ -1,5 +1,7 @@
 " CORE
 Plug 'scrooloose/nerdtree'
+Plug 'sotte/presenting.vim'
+Plug 'zivyangll/git-blame.vim'
 Plug 'Yggdroot/indentLine' 
 Plug 'sheerun/vim-polyglot'
 Plug 'junegunn/goyo.vim'

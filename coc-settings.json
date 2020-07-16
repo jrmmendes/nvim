@@ -1,4 +1,5 @@
 {
+  "tsserver.maxTsServerMemory": 300,
   "languageserver": {
     "ccls": {
       "command": "ccls",
