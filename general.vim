@@ -3,7 +3,9 @@ set background=dark
 set termguicolors
 set mouse=a
 let g:airline_theme='deep_space'
+" let g:gruvbox_contrast_dark='hard'
 colorscheme deep-space
+" colorscheme gruvbox
 
 set rtp+=~/.fzf " fzf config
 
