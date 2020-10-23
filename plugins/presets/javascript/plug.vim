@@ -1,5 +1,6 @@
 " JAVASCRIPT "
 Plug 'chemzqm/vim-jsx-improve'
+Plug 'eliba2/vim-node-inspect'
 Plug 'mattn/emmet-vim'
 Plug 'jrmmendes/vim-vue'
 Plug 'cakebaker/scss-syntax.vim'

@@ -1,8 +1,10 @@
 " CORE
 Plug 'scrooloose/nerdtree'
 Plug 'sotte/presenting.vim'
+Plug 'gutenye/json5.vim'
 Plug 'zivyangll/git-blame.vim'
 Plug 'Yggdroot/indentLine' 
+Plug 'morhetz/gruvbox'
 Plug 'sheerun/vim-polyglot'
 Plug 'junegunn/goyo.vim'
 Plug 'junegunn/fzf.vim'
@@ -17,4 +19,5 @@ Plug 'metakirby5/codi.vim'
 Plug 'tpope/vim-surround'
 " Plug 'ludovicchabant/vim-gutentags'
 " Plug 'w0rp/ale'
+Plug 'airblade/vim-gitgutter'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
