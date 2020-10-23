@@ -24,7 +24,8 @@ Dotfiles - Neovim
 ### Install
 Clone this repo on `$HOME/.config` directory. After, open Neovim and run `:PlugInstall`.
 
-### Cheat Sheet
+### Cheat Sheet - Powered by [vim-node-inspector](https://github.com/eliba2/vim-node-inspect) 
+
 #### Node Inspector
 * `<F4>`: Start
 * `<F5>`: Run
