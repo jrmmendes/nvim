@@ -1,5 +1,6 @@
 {
   "tsserver.maxTsServerMemory": 300,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
   "languageserver": {
     "ccls": {
       "command": "ccls",
