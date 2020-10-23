@@ -23,3 +23,13 @@ Dotfiles - Neovim
 
 ### Install
 Clone this repo on `$HOME/.config` directory. After, open Neovim and run `:PlugInstall`.
+
+### Cheat Sheet
+#### Node Inspector
+* `<F4>`: Start
+* `<F5>`: Run
+* `<F6>`: Connect to "127.0.0.1:9229"
+* `<F7>`: Step Into
+* `<F8>`: Step Over
+* `<F9>`: Toggle Breakpoint
+* `<F10>`: Stop
