@@ -14,6 +14,7 @@ Dotfiles - Neovim
 
 ### Requirements
 - Powerline fonts (https://github.com/powerline/fonts)
+- FiraCode Nerd Font: https://www.nerdfonts.com/font-downloads
 - nvim v0.4.3+
 - Node.js (v10.12+)
 - Python 3
