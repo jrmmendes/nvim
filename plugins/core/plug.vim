@@ -1,7 +1,9 @@
 " CORE
 Plug 'scrooloose/nerdtree'
+Plug '907th/vim-auto-save'
 Plug 'sotte/presenting.vim'
 Plug 'gutenye/json5.vim'
+" Plug 'jparise/vim-graphql'
 Plug 'zivyangll/git-blame.vim'
 Plug 'Yggdroot/indentLine' 
 Plug 'morhetz/gruvbox'

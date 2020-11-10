@@ -1,11 +1,12 @@
+let g:auto_save = 1  " enable AutoSave on Vim startup
 "Colorscheme
 set background=dark
 set termguicolors
 set mouse=a
 let g:airline_theme='deep_space'
-" let g:gruvbox_contrast_dark='hard'
-colorscheme deep-space
-" colorscheme gruvbox
+let g:gruvbox_contrast_dark='hard'
+" colorscheme deep-space
+colorscheme gruvbox
 
 set rtp+=~/.fzf " fzf config
 
